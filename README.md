@@ -2,9 +2,9 @@
 <h3 align="center">Desenvolvedor Web</h3>
 
 <p align="center">
-  🔥 Apaixonado por transformar ideias em sistemas reais e funcionais.<br>
-  💻 Atuo no front-end e back-end, sempre explorando novas tecnologias.<br>
-  🚀 Em busca de novos desafios para crescer como desenvolvedor e agregar em projetos reais.
+  🌟 Entusiasta da criação de soluções digitais que fazem a diferença.<br>
+  🧠 Desenvolvedor full stack em constante evolução e aprendizado.<br>
+  ⚙️ Movido por desafios que exigem criatividade, lógica e dedicação.
 </p>
 
 ---
