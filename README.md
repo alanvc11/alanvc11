@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 
   #### 🧪 Testes & Build  
-  <img src="https://skillicons.dev/icons?i=jest,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=vite" />
 
   #### 🔧 Ferramentas & DevOps  
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
@@ -37,7 +37,7 @@
 
 <div>
   <a href="mailto:alanvictordossantos337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/leonardo-af/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/leonardo-af/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </div>
 
