@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=header&text=Alan+Victor&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <h1 align="center">👋 Olá, eu sou o Alan Victor</h1>
 <h3 align="center">Desenvolvedor Web</h3>
 
@@ -31,6 +33,8 @@
 </div>
 
 ---
+
+### 📊 Minhas Estatísticas no GitHub
 
 <div>
 <a href="https://github.com/alanvc11">
